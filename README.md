@@ -18,20 +18,4 @@ The python code locates the finger index using mediapipe library that has handtr
 Two-axis motion robotic arms, while simpler in design compared to more complex multi-axis robotic arms, still have a variety of real-life applications across different industries: Bomb Diffusion Sites, Pick and Place Operations, Packaging and Sorting, Assembly Operations, Inspection and Quality Control & Medical Applications as well. The versatility and precision make them valuable assets across various industries, enhancing efficiency, productivity, and safety in diverse tasks and environments.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://drive.google.com/file/d/1n99ObabtTi9igpVLS4UJ3FFUzWQcIs00/view?usp=sharing
+Working Video Link: https://drive.google.com/file/d/1n99ObabtTi9igpVLS4UJ3FFUzWQcIs00/view?usp=sharing
