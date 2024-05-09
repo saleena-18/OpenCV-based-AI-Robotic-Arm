@@ -1,6 +1,6 @@
 # Project: AI Robotic Arm using OpenCV & MediaPipe
 
-<img src="/home/saleena/AI Robotic Arm/Robotic Arm.jpg" alt="workflow" width="70%">
+<img src="Robotic Arm.jpg" align="center" alt="workflow" width="70%">
 
 Manufactured through cutting-edge 3-D printing technology, the Robotic Arm is meticulously designed for precise movements and versatile functionality across various tasks. Computer Vision based OpenCV seamlessly interprets human gestures,providing users with an intuitive control interface for the robotic arm. This feature not only elevates human-robot interaction but also simplifies the overall control mechanism.
 
@@ -11,7 +11,7 @@ Computer vision has been used to detect the hand movements and gestures. In the 
 
 The python code locates the finger index using mediapipe library that has handtracking module and detects whether a finger is open or closed. An array contains variables of five fingers that shows in real-time in the terminal whether a finger is open or closed : open shows ‘1’ and closed shows ‘0’. It has a 2 axis motion hence, only fingers can be open and close.
 
-<img src="/home/saleena/AI Robotic Arm/OpenCV_Robotic Arm.png" alt="workflow1" width="70%">
+<img src="OpenCV_Robotic Arm.png" align="center" alt="workflow1" width="70%">
 
 ## Importance
 
